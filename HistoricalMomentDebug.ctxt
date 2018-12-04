@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HistoricalMomentDebug
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ HistoricalMomentDebug\ here.\r\n\r\n\ @author\ Mike\ Mulder\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=HistoricalMomentDebug()
+comment1.text=\r\n\ Default\ constructor\r\n
+comment2.params=nameOfTheEvent
+comment2.target=HistoricalMomentDebug(java.lang.String)
+comment2.text=\r\n\ Constructor\ with\ an\ event\r\n\ \r\n\ @param\ nameOfTheEvent\r\n
+comment3.params=nameOfTheEvent\ theTime
+comment3.target=HistoricalMomentDebug(java.lang.String,\ ClockDisplayDebug)
+comment3.text=\r\n\ Constructor\ with\ event\ and\ clock\ display\r\n\ \r\n\ @param\ nameOfTheEvent\r\n\ @param\ theTime\r\n
+comment4.params=
+comment4.target=void\ addMinuteToTimeOfEvent()
+comment4.text=\r\n\ Adds\ a\ minute\ to\ the\ event\r\n
+comment5.params=
+comment5.target=void\ printDetails()
+comment5.text=\r\n\ Prints\ the\ details\ of\ the\ event\r\n
+numComments=6
