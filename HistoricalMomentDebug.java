@@ -29,7 +29,7 @@ public class HistoricalMomentDebug
         } else {
             this.eventName = "untitled event";
         }
-        this.timeOfEvent = new ClockDisplayDebug(ClockDisplayDebug.MIDNIGHT_HOUR, ClockDisplayDebug.MINUTE_ZERO);
+        this.timeOfEvent = new ClockDisplayDebug();
     }
     
     /**
